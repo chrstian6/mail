@@ -1,6 +1,6 @@
 
     var i = 0;
-    var txt = "Hi, I want u to know that you're very special to me & i really like you.\n HAPPY HEARTS DAY!!!"; /* The text */
+    var txt = "Hi lodibabes,loml,babe,love, nam-ra hehe. I want u to know that you're very special to me & i really like you. lovelots! HAPPY HEARTS DAY!!!"; /* The text */
     var speed = 55; /* The speed/duration of the effect in milliseconds */
     
     function typeWriter() {
